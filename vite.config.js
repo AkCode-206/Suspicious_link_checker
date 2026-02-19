@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Suspiciouslinkfinder/',
+  base: '/SXuspicious_link_checker/',
   plugins: [react(), tailwindcss()],
 })
